@@ -254,7 +254,12 @@ input{
 }
 
 .liicon{
-    margin-left: 0.85rem;
+    margin-left: 1.1rem;
+}
+@media (max-width: 500px){
+.liicon{
+    margin-left:0.7rem
+}
 }
 
 .liicons:hover{
