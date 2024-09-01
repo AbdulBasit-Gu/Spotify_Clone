@@ -387,6 +387,7 @@ input{
     align-items: center;
     margin-top: 8px;
     margin-left: 4px;
+     overflow: hidden;
 
 }
  
@@ -399,7 +400,8 @@ input{
     font-weight: 700;
 }
 .albums .mainmusic .musictop .d1 img{
-    width: 40px;
+    width: 45px;
+    height:100%;
 }
 .albums .mainmusic .musictop .d1 span{
     display: none;
